@@ -1,0 +1,3 @@
+- indicators/ - Wskaźniki generujące sygnały dla moich systemów
+- SendSignalsAndBars - Wysyła powyższe sygnały do serwera zgodnie z ustawieniami
+- SignalReader - czyta sygnały wejścia z serwera [fserver]
